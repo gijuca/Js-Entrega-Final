@@ -1,0 +1,18 @@
+añadir un grupo de elementos cerca del titulo con
+.numero que cuenta la cantidad de items en el carrito
+.icono del carrito, clickeable para abrir un modal
+.nuevo modal que muestra una lista de items que estan en el local storage
+.boton para poder quitarlos de la lista del modal
+
+añadir la escucha de que al hacer click en el boton de comprar
+añada un item al localstorage
+
+
+---------------------------------------------------------------------------
+fixear que se muestre el modal al hacer click, remplazando la escucha al elemento completo por la imagen
+mostrar un mensaje que diga no hay productos en el carrito
+al estar añadido el producto puede o mostrar el mensaje que se esta mostrando o añadir un contador
+al hacer click en añadir, tiene que aparecer un mensaje "producto añadido" (se puede scrolear al usuario para arriba de todo)
+checkear que al borrar todos, se verifique nuevamente si el localstorage tiene items
+
+checkear que al articulo que esta estatico al añadirlo dos veces se muestra el producto pero se añade de igual manera
